@@ -20,7 +20,10 @@
   - Arrays
   - Variables
   - Local Storage
-  - Api
+
+- [x] Utilise Third Party Api's:
+  
+  - Jquery
   - Moment.js
 
 
