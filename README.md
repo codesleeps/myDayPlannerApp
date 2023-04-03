@@ -9,6 +9,21 @@
 - [x] This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
 
 
+### Purpose
+
+- [x] Utilise Javascript:
+
+  - Methods
+  - Objects
+  - Nesting
+  - Dot Notation
+  - Arrays
+  - Variables
+  - Local Storage
+  - Api
+  - Moment.js
+
+
 
 
 
