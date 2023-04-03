@@ -36,7 +36,7 @@ https://codesleeps.github.io/myDayPlannerApp/
 ### Screenshots
 
 
-- [Jumbotron](https://user-images.githubusercontent.com/125808990/229560237-a8504e8f-c413-49ea-ab4d-59b3d97f1481.png)
+ [Jumbotron](https://user-images.githubusercontent.com/125808990/229560237-a8504e8f-c413-49ea-ab4d-59b3d97f1481.png)
 
 
 
