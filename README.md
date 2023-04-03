@@ -23,7 +23,7 @@
   - Variables
   - Local Storage
 
-- [x] Utilise Third Party Api's:
+- [x] Utilise Third Party Api:
   
   - Jquery
   - Moment.js
