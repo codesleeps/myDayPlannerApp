@@ -35,3 +35,32 @@
 
 
 
+
+
+
+
+
+
+
+
+
+## VS Code - Extensions
+
+- [x] Quokka.js 🤖
+- [x] ESLint 🔥
+- [x] JavaScript (ES6) 
+- [x] Prettier 🔥
+- [x] Tabnine 🤖
+
+
+## Additional resources
+
+- [MDN Web Docs](https://developer.mozilla.org/en-US/)
+- [Java Point](https://www.javatpoint.com/jquery-example)
+- [Geeks for Geeks](https://www.geeksforgeeks.org/jquery-examples/)
+- [Day.js](https://day.js.org)
+- [Node.js](https://nodejs.org/api/synopsis.html)
+
+
+
+
