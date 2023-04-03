@@ -1,6 +1,6 @@
 # myDayPlannerApp
 
-[App]https://codesleeps.github.io/myDayPlannerApp/
+[App](https://codesleeps.github.io/myDayPlannerApp/)
 
 
 
