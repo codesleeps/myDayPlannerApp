@@ -1,16 +1,10 @@
-<!-- ⚠️ This README has been generated from the file(s) "blueprint.md" ⚠️-->
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#mydayplannerapp)
-
-# ➤ myDayPlannerApp
+# myDayPlannerApp
 
 [App](https://codesleeps.github.io/myDayPlannerApp/)
 
 
 
-
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#task)
-
-## ➤ Task
+## Task
 
 - [x] Create a simple calendar application that allows a user to save events for each hour of the day by modifying starter code.
 
@@ -53,10 +47,7 @@
 
 
 
-
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#vs-code---extensions)
-
-## ➤ VS Code - Extensions
+## VS Code - Extensions
 
 - [x] Quokka.js 🤖
 - [x] ESLint 🔥
@@ -65,10 +56,7 @@
 - [x] Tabnine 🤖
 
 
-
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#additional-resources)
-
-## ➤ Additional resources
+## Additional resources
 
 - [MDN Web Docs](https://developer.mozilla.org/en-US/)
 - [Java Point](https://www.javatpoint.com/jquery-example)
