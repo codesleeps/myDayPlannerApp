@@ -1,7 +1,7 @@
 <!-- ⚠️ This README has been generated from the file(s) "blueprint.md" ⚠️-->
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#mydayplannerapp)
 
-# ➤ myDayPlannerApp
+# ➤ myDayPlannerApp ♦︎
 
 [App](https://codesleeps.github.io/myDayPlannerApp/)
 
@@ -17,7 +17,7 @@
 - [x] This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery & Moment.js.
 
 
-### Purpose
+## Purpose
 
 - [x] Utilise Javascript:
 
@@ -39,7 +39,7 @@
 
 
 
-### Screenshots
+## Screenshots 📸
 
 
  [Jumbotron](https://user-images.githubusercontent.com/125808990/229560237-a8504e8f-c413-49ea-ab4d-59b3d97f1481.png)
