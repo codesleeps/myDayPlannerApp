@@ -3,6 +3,9 @@
 
 # ➤ myDayPlannerApp ♦︎
 
+[![License](https://img.shields.io/packagist/l/dingo/api.svg?style=flat-square)](LICENSE)
+
+
 [App](https://codesleeps.github.io/myDayPlannerApp/)
 
 
